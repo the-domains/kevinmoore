@@ -1,16 +1,16 @@
-typography_spectrum: 0.7092102942988276
+typography_spectrum: 0.7436686842702329
 color:
-  brandStrength: 0.8629685323685408
-  lightness: 0.37860194384120405
-  saturation: 0.41478282026946545
-  rhythmicContrast: 0.5814858644735068
+  brandStrength: 0.3818836915306747
+  lightness: 0.5318988624494523
+  saturation: 0.09743140870705247
+  rhythmicContrast: 0.7617908418178558
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.6413668200839311
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.10166882118210196
 author:
   name: Kevin Moore
   email: kevin.moore@vooban.com

@@ -1,4 +1,4 @@
-typography_spectrum: 0.015228484058752656
+typography_spectrum: 0.8988214887212962
 color:
   brandStrength: 0.6247034412808716
   lightness: 0.2518681224901229
@@ -10,7 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.21432428411208093
+layout_spectrum: 0.6413668200839311
 author:
   name: Kevin Moore
   email: kevin.moore@vooban.com

@@ -1,4 +1,3 @@
-layout_spectrum: 0.21432428411208093
 typography_spectrum: 0.015228484058752656
 color:
   brandStrength: 0.6247034412808716
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.21432428411208093
+author:
+  name: Kevin Moore
+  email: kevin.moore@vooban.com
 name: kevinmoore
+title: Entrepreneurship and tech

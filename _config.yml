@@ -1,15 +1,15 @@
-typography_spectrum: 0.8988214887212962
+typography_spectrum: 0.7092102942988276
 color:
-  brandStrength: 0.6247034412808716
-  lightness: 0.2518681224901229
-  saturation: 0.23601081827655435
-  rhythmicContrast: 0.2879545707255602
+  brandStrength: 0.8629685323685408
+  lightness: 0.37860194384120405
+  saturation: 0.41478282026946545
+  rhythmicContrast: 0.5814858644735068
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 layout_spectrum: 0.6413668200839311
 author:
   name: Kevin Moore

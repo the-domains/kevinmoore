@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-19T14:38:38.024Z'
+datePublished: '2016-08-19T14:54:36.293Z'
 sourcePath: _posts/2016-08-19-10-ways-to-spot-an-exceptional-employee.md
-isBasedOnUrl: 'https://www.entrepreneur.com/article/253650'
+hasPage: true
 keywords:
   - employees
   - exceptional
@@ -19,7 +19,7 @@ author:
     url: 'https://www.entrepreneur.com/author/travis-bradberry'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T14:38:37.797Z'
+dateModified: '2016-08-19T14:54:35.840Z'
 title: 10 Ways to Spot an Exceptional Employee
 app_links: []
 publisher:
@@ -34,9 +34,7 @@ description: >-
   employees apart.
 inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: 10-ways-to-spot-an-exceptional-employee/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T14:56:14.855Z'
+datePublished: '2016-08-19T14:57:20.458Z'
 sourcePath: _posts/2016-08-19-10-ways-to-spot-an-exceptional-employee.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.entrepreneur.com/author/travis-bradberry'
     avatar: {}
 via: {}
-dateModified: '2016-08-19T14:56:14.551Z'
+dateModified: '2016-08-19T14:57:20.150Z'
 title: 10 Ways to Spot an Exceptional Employee
 app_links: []
 publisher:
@@ -40,3 +40,5 @@ _type: MediaObject
 
 ---
 <article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f63e93f8510c6c9ed8a969f375e8db1f/noop.jpeg?input=https%3A%2F%2Fassets.entrepreneur.com%2Fcontent%2F3x2%2F1300%2F20151009165704-office-workers-late-night-working.jpeg" /><h1>10 Ways to Spot an Exceptional Employee</h1><p>We're searching for top company cultures to be featured on our annual list. Think your company has what it takes? Apply Now " A recent international study surveyed more than 500 business leaders and asked them what sets great employees apart.</p></article>
+
+We're searching for top company cultures to be featured on our annual list. Think your company has what it takes? Apply Now " A recent international study surveyed more than 500 business leaders and asked them what sets great employees apart.
